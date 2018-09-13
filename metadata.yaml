@@ -1,0 +1,39 @@
+_repo: The-Year-s-at-the-Spring-An-Anthology-of-Recent-Poetry_51488
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Monro, Harold
+    birthdate: 1879
+    deathdate: 1932
+    gutenberg_agent_id: '35253'
+    url: http://www.gutenberg.org/2009/agents/35253
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Monro
+  compiler:
+    agent_name: Walters, L. D'O. (Lettice D'Oyly)
+    alias: Walters, Lettice D'Oyly
+    birthdate: 1880
+    gutenberg_agent_id: '46370'
+    url: http://www.gutenberg.org/2009/agents/46370
+  illustrator:
+    agent_name: Clarke, Harry
+    alias: Clarke, Henry Patrick
+    birthdate: 1889
+    deathdate: 1931
+    gutenberg_agent_id: '33646'
+    url: http://www.gutenberg.org/2009/agents/33646
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Clarke
+description: ''
+gutenberg_issued: '2016-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century'
+- GITenberg
+title: 'The Year''s at the Spring: An Anthology of Recent Poetry'
+url: http://www.gutenberg.org/ebooks/51488
